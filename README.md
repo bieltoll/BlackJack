@@ -1,2 +1,2 @@
 # BlackJack
-BlackJack
+BlackJack joc de cartes
